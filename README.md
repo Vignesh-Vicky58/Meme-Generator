@@ -1,3 +1,8 @@
+Meme generator site using useState and fetch (for importing data from api) and useEffect to avoid react side effects
+
+Note:
+we have to give array desructor while initializing useState the first value will be current-state and secong value will be new-state but by convention called setCurrentState, we should not change the current-state we can only call and change the new-state
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
